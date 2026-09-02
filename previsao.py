@@ -1,6 +1,6 @@
 import requests
 import json
-from datetime import datetime
+from datetime import datetime, timedelta, timezone
 
 # Coordenadas de São Sebastião - SP
 LAT = -23.8269
@@ -68,7 +68,9 @@ def obter_dados():
     onda_dir = resp_mar['hourly']['wave_direction']
     onda_per = resp_mar['hourly']['wave_period']
 
-    agora_str = datetime.now().strftime("%Y-%m-%dT%H:00")
+    # Força o fuso horário do Brasil (UTC-3) ignorando a hora do servidor do GitHub
+    fuso_br = timezone(timedelta(hours=-3))
+    agora_str = datetime.now(fuso_br).strftime("%Y-%m-%dT%H:00")
 
     relatorio = []
     horas_coletadas = 0

@@ -1,36 +1,8 @@
 [
     {
-        "data_hora": "2026-09-02T18:00",
-        "temperatura_c": 18.5,
-        "chance_chuva_pct": 59,
-        "volume_chuva_mm": 0.0,
-        "visibilidade_m": 18260.0,
-        "vento_kmh": 5.0,
-        "vento_rajada_kmh": 22.0,
-        "vento_direcao_graus": 167,
-        "onda_altura_m": 1.84,
-        "onda_periodo_s": 9.1,
-        "onda_direcao_graus": 181,
-        "condicao_navegacao": "Atenção"
-    },
-    {
-        "data_hora": "2026-09-02T19:00",
-        "temperatura_c": 18.2,
-        "chance_chuva_pct": 42,
-        "volume_chuva_mm": 0.0,
-        "visibilidade_m": 18260.0,
-        "vento_kmh": 3.9,
-        "vento_rajada_kmh": 15.5,
-        "vento_direcao_graus": 127,
-        "onda_altura_m": 1.86,
-        "onda_periodo_s": 9.2,
-        "onda_direcao_graus": 179,
-        "condicao_navegacao": "Atenção"
-    },
-    {
         "data_hora": "2026-09-02T20:00",
         "temperatura_c": 17.8,
-        "chance_chuva_pct": 19,
+        "chance_chuva_pct": 18,
         "volume_chuva_mm": 0.0,
         "visibilidade_m": 18080.0,
         "vento_kmh": 3.1,
@@ -44,7 +16,7 @@
     {
         "data_hora": "2026-09-02T21:00",
         "temperatura_c": 17.4,
-        "chance_chuva_pct": 2,
+        "chance_chuva_pct": 8,
         "volume_chuva_mm": 0.0,
         "visibilidade_m": 1600.0,
         "vento_kmh": 3.9,
@@ -58,7 +30,7 @@
     {
         "data_hora": "2026-09-02T22:00",
         "temperatura_c": 17.0,
-        "chance_chuva_pct": 0,
+        "chance_chuva_pct": 3,
         "volume_chuva_mm": 0.0,
         "visibilidade_m": 480.0,
         "vento_kmh": 5.0,
@@ -72,7 +44,7 @@
     {
         "data_hora": "2026-09-02T23:00",
         "temperatura_c": 16.9,
-        "chance_chuva_pct": 0,
+        "chance_chuva_pct": 1,
         "volume_chuva_mm": 0.0,
         "visibilidade_m": 300.0,
         "vento_kmh": 4.5,
@@ -333,6 +305,34 @@
         "onda_altura_m": 1.62,
         "onda_periodo_s": 9.8,
         "onda_direcao_graus": 156,
+        "condicao_navegacao": "Atenção"
+    },
+    {
+        "data_hora": "2026-09-03T18:00",
+        "temperatura_c": 20.1,
+        "chance_chuva_pct": 0,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 12200.0,
+        "vento_kmh": 14.6,
+        "vento_rajada_kmh": 41.0,
+        "vento_direcao_graus": 39,
+        "onda_altura_m": 1.58,
+        "onda_periodo_s": 9.75,
+        "onda_direcao_graus": 155,
+        "condicao_navegacao": "Atenção"
+    },
+    {
+        "data_hora": "2026-09-03T19:00",
+        "temperatura_c": 19.5,
+        "chance_chuva_pct": 0,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 12040.0,
+        "vento_kmh": 15.5,
+        "vento_rajada_kmh": 42.1,
+        "vento_direcao_graus": 39,
+        "onda_altura_m": 1.54,
+        "onda_periodo_s": 9.75,
+        "onda_direcao_graus": 154,
         "condicao_navegacao": "Atenção"
     }
 ]

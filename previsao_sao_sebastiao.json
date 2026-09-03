@@ -1,47 +1,5 @@
 [
     {
-        "data_hora": "2026-09-03T16:00",
-        "temperatura_c": 23.5,
-        "chance_chuva_pct": 0,
-        "volume_chuva_mm": 0.0,
-        "visibilidade_m": 13920.0,
-        "vento_kmh": 13.3,
-        "vento_rajada_kmh": 40.0,
-        "vento_direcao_graus": 42,
-        "onda_altura_m": 1.7,
-        "onda_periodo_s": 10.25,
-        "onda_direcao_graus": 158,
-        "condicao_navegacao": "Atenção"
-    },
-    {
-        "data_hora": "2026-09-03T17:00",
-        "temperatura_c": 22.3,
-        "chance_chuva_pct": 0,
-        "volume_chuva_mm": 0.0,
-        "visibilidade_m": 11860.0,
-        "vento_kmh": 13.4,
-        "vento_rajada_kmh": 40.0,
-        "vento_direcao_graus": 41,
-        "onda_altura_m": 1.64,
-        "onda_periodo_s": 10.2,
-        "onda_direcao_graus": 158,
-        "condicao_navegacao": "Atenção"
-    },
-    {
-        "data_hora": "2026-09-03T18:00",
-        "temperatura_c": 20.4,
-        "chance_chuva_pct": 0,
-        "volume_chuva_mm": 0.0,
-        "visibilidade_m": 10520.0,
-        "vento_kmh": 13.9,
-        "vento_rajada_kmh": 38.5,
-        "vento_direcao_graus": 40,
-        "onda_altura_m": 1.6,
-        "onda_periodo_s": 10.15,
-        "onda_direcao_graus": 157,
-        "condicao_navegacao": "Atenção"
-    },
-    {
         "data_hora": "2026-09-03T19:00",
         "temperatura_c": 19.6,
         "chance_chuva_pct": 0,
@@ -333,6 +291,48 @@
         "onda_altura_m": 1.04,
         "onda_periodo_s": 9.1,
         "onda_direcao_graus": 142,
+        "condicao_navegacao": "Favorável"
+    },
+    {
+        "data_hora": "2026-09-04T16:00",
+        "temperatura_c": 23.2,
+        "chance_chuva_pct": 0,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 12840.0,
+        "vento_kmh": 9.1,
+        "vento_rajada_kmh": 34.2,
+        "vento_direcao_graus": 262,
+        "onda_altura_m": 1.02,
+        "onda_periodo_s": 9.05,
+        "onda_direcao_graus": 142,
+        "condicao_navegacao": "Favorável"
+    },
+    {
+        "data_hora": "2026-09-04T17:00",
+        "temperatura_c": 21.7,
+        "chance_chuva_pct": 0,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 11280.0,
+        "vento_kmh": 12.0,
+        "vento_rajada_kmh": 37.1,
+        "vento_direcao_graus": 256,
+        "onda_altura_m": 1.0,
+        "onda_periodo_s": 9.05,
+        "onda_direcao_graus": 143,
+        "condicao_navegacao": "Favorável"
+    },
+    {
+        "data_hora": "2026-09-04T18:00",
+        "temperatura_c": 20.7,
+        "chance_chuva_pct": 0,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 8740.0,
+        "vento_kmh": 11.4,
+        "vento_rajada_kmh": 38.9,
+        "vento_direcao_graus": 254,
+        "onda_altura_m": 0.98,
+        "onda_periodo_s": 8.95,
+        "onda_direcao_graus": 143,
         "condicao_navegacao": "Favorável"
     }
 ]

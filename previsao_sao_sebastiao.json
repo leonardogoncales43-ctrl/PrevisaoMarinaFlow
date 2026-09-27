@@ -1,44 +1,5 @@
 [
     {
-        "data_hora": "2026-09-27T17:00",
-        "temperatura_c": 22.5,
-        "chance_chuva_pct": 88,
-        "volume_chuva_mm": 0.1,
-        "visibilidade_m": 6320.0,
-        "vento_kmh": 5.7,
-        "vento_rajada_kmh": 21.6,
-        "vento_direcao_graus": 131,
-        "onda_altura_m": 0.6,
-        "onda_periodo_s": 8.15,
-        "onda_direcao_graus": 141
-    },
-    {
-        "data_hora": "2026-09-27T18:00",
-        "temperatura_c": 21.9,
-        "chance_chuva_pct": 92,
-        "volume_chuva_mm": 0.1,
-        "visibilidade_m": 6020.0,
-        "vento_kmh": 6.2,
-        "vento_rajada_kmh": 17.6,
-        "vento_direcao_graus": 134,
-        "onda_altura_m": 0.58,
-        "onda_periodo_s": 8.1,
-        "onda_direcao_graus": 141
-    },
-    {
-        "data_hora": "2026-09-27T19:00",
-        "temperatura_c": 21.8,
-        "chance_chuva_pct": 96,
-        "volume_chuva_mm": 0.1,
-        "visibilidade_m": 6340.0,
-        "vento_kmh": 7.1,
-        "vento_rajada_kmh": 20.5,
-        "vento_direcao_graus": 117,
-        "onda_altura_m": 0.58,
-        "onda_periodo_s": 8.05,
-        "onda_direcao_graus": 141
-    },
-    {
         "data_hora": "2026-09-27T20:00",
         "temperatura_c": 21.7,
         "chance_chuva_pct": 99,
@@ -310,5 +271,44 @@
         "onda_altura_m": 0.88,
         "onda_periodo_s": 8.2,
         "onda_direcao_graus": 161
+    },
+    {
+        "data_hora": "2026-09-28T17:00",
+        "temperatura_c": 23.7,
+        "chance_chuva_pct": 10,
+        "volume_chuva_mm": 0.0,
+        "visibilidade_m": 9700.0,
+        "vento_kmh": 9.0,
+        "vento_rajada_kmh": 30.2,
+        "vento_direcao_graus": 64,
+        "onda_altura_m": 0.9,
+        "onda_periodo_s": 8.25,
+        "onda_direcao_graus": 163
+    },
+    {
+        "data_hora": "2026-09-28T18:00",
+        "temperatura_c": 23.0,
+        "chance_chuva_pct": 12,
+        "volume_chuva_mm": 0.1,
+        "visibilidade_m": 2260.0,
+        "vento_kmh": 7.9,
+        "vento_rajada_kmh": 28.4,
+        "vento_direcao_graus": 63,
+        "onda_altura_m": 0.9,
+        "onda_periodo_s": 8.25,
+        "onda_direcao_graus": 164
+    },
+    {
+        "data_hora": "2026-09-28T19:00",
+        "temperatura_c": 22.7,
+        "chance_chuva_pct": 19,
+        "volume_chuva_mm": 0.1,
+        "visibilidade_m": 1220.0,
+        "vento_kmh": 7.1,
+        "vento_rajada_kmh": 26.3,
+        "vento_direcao_graus": 60,
+        "onda_altura_m": 0.92,
+        "onda_periodo_s": 8.2,
+        "onda_direcao_graus": 164
     }
 ]
